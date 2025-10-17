@@ -1,7 +1,7 @@
 # Laboratorio_3_IA
 * Yefri Stiven Barrero Solano - 23230392
 * Jose Alejandro Mesa Chavez -
-* Juan David Becerra Pulio -
+* Juan David Becerra Pulio - 2283133
 
 # Maximización de una Función Cuadrática en un Intervalo Cerrado
 
